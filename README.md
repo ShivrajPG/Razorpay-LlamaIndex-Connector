@@ -1,6 +1,6 @@
 # LlamaIndex Razorpay Connector
 
-**An official data loader connecting Razorpay's Financial API to LLMs.**
+**An data loader connecting Razorpay's Financial API to LLMs.**
 
 ### The Problem
 FinTech companies, e-commerce brands, and merchants generate thousands of payment data points daily. However, modern LLMs (Large Language Models) cannot natively read or access this structured financial data to provide business insights.
